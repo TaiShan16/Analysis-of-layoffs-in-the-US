@@ -1,5 +1,5 @@
 # Analysis-of-layoffs-in-the-US(2020-2023)
-#### Project 1 - 
+### Project 1 
 
 In this project, we will utilize a dataset sourced from Kaggle. Our initial steps will involve exploring, cleaning, and reformatting the data prior to addressing our research questions.
 
